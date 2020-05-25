@@ -1,1 +1,1 @@
-# bandai
+# BandaiNamco-DSChallenge
